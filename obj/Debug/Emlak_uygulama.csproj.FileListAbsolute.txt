@@ -1,0 +1,22 @@
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\bin\Debug\Emlak_uygulama.exe.config
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\bin\Debug\Emlak_uygulama.exe
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\bin\Debug\Emlak_uygulama.pdb
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.csprojAssemblyReference.cache
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.Form1.resources
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.Properties.Resources.resources
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.csproj.GenerateResource.cache
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.exe
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.pdb
+C:\Users\oktay\Documents\Ybs\C#\Emlak_uygulama\obj\Debug\Emlak_uygulama.Form2.resources
+E:\C# Programlama\Emlak_uygulama\bin\Debug\Emlak_uygulama.exe.config
+E:\C# Programlama\Emlak_uygulama\bin\Debug\Emlak_uygulama.exe
+E:\C# Programlama\Emlak_uygulama\bin\Debug\Emlak_uygulama.pdb
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.csprojAssemblyReference.cache
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.Form1.resources
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.Form2.resources
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.Properties.Resources.resources
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.csproj.GenerateResource.cache
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.csproj.CoreCompileInputs.cache
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.exe
+E:\C# Programlama\Emlak_uygulama\obj\Debug\Emlak_uygulama.pdb
